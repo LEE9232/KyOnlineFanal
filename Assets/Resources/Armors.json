@@ -1,0 +1,46 @@
+[
+  {
+    "itemID": 201,
+    "itemName": "Iron Armor",
+    "buyPrice": 1500,
+    "sellPrice": 200,
+    "itemProfile": "초보자 방어구, 든든해보이지만..든든하지않다.",
+    "defensePower": 15,
+    "healthPoints": 100,
+    "itemImage": "ItemImage/armor/IronArmor",
+    "itemdropChance": 0.5
+  },
+  {
+    "itemID": 202,
+    "itemName": "Leather Armor",
+    "buyPrice": 8000,
+    "sellPrice": 500,
+    "itemProfile": "가죽 방어구, 늑대의 가죽으로 만들었다.",
+    "defensePower": 25,
+    "healthPoints": 150,
+    "itemImage": "ItemImage/armor/LeatherArmor",
+    "itemdropChance": 0.1
+  },
+  {
+    "itemID": 203,
+    "itemName": "Long Armor",
+    "buyPrice": 30000,
+    "sellPrice": 200,
+    "itemProfile": "긴 가죽 방어구, 든든하긴하다..?",
+    "defensePower": 45,
+    "healthPoints": 350,
+    "itemImage": "ItemImage/armor/LongArmor",
+    "itemdropChance": 0.05
+  },
+  {
+    "itemID": 204,
+    "itemName": "Gold Armor",
+    "buyPrice": 1000000,
+    "sellPrice": 200000,
+    "itemProfile": "금빛 방어구, 고인물의 증거",
+    "defensePower": 70,
+    "healthPoints": 1000,
+    "itemImage": "ItemImage/armor/GoldArmor",
+    "itemdropChance": 0.005
+  }
+]

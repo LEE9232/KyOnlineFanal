@@ -1,0 +1,74 @@
+[
+  {
+    "itemID": 301,
+    "itemName": "Magic Ring",
+    "buyPrice": 1000,
+    "sellPrice": 100,
+    "itemProfile": "초보자의 반지",
+    "manaPoints": 50,
+    "hpRegenPerSecond": 2,
+    "mpRegenPerSecond": 2,
+    "itemImage": "ItemImage/accessory/IronRing",
+    "itemdropChance": 0.5
+  },
+  {
+    "itemID": 302,
+    "itemName": "Healing Amulet",
+    "buyPrice": 10000,
+    "sellPrice": 1000,
+    "itemProfile": "힐링 아뮬렛",
+    "manaPoints": 60,
+    "hpRegenPerSecond": 10,
+    "mpRegenPerSecond": 10,
+    "itemImage": "ItemImage/accessory/HealingAmulet",
+    "itemdropChance": 0.08
+  },
+  {
+    "itemID": 303,
+    "itemName": "Stan Ring",
+    "buyPrice": 5000,
+    "sellPrice": 400,
+    "itemProfile": "쇠 반지",
+    "manaPoints": 50,
+    "hpRegenPerSecond": 10,
+    "mpRegenPerSecond": 4,
+    "itemImage": "ItemImage/accessory/StanRing",
+    "itemdropChance": 0.1
+  },
+  {
+    "itemID": 304,
+    "itemName": "Rube Ring",
+    "buyPrice": 70000,
+    "sellPrice": 40000,
+    "itemProfile": "루비 반지",
+    "manaPoints": 300,
+    "hpRegenPerSecond": 10,
+    "mpRegenPerSecond": 10,
+    "itemImage": "ItemImage/accessory/RubeRing",
+    "itemdropChance": 0.005
+  },
+  {
+    "itemID": 305,
+    "itemName": "Rube Amulet",
+    "buyPrice": 100000,
+    "sellPrice": 60000,
+    "itemProfile": "루비 아뮬렛",
+    "manaPoints": 150,
+    "hpRegenPerSecond": 15,
+    "mpRegenPerSecond": 15,
+    "itemImage": "ItemImage/accessory/RubeAmulet",
+    "itemdropChance": 0.02
+  },
+  {
+    "itemID": 306,
+    "itemName": "Gold Amulet",
+    "buyPrice": 1000000,
+    "sellPrice": 200000,
+    "itemProfile": "황금 목걸이",
+    "manaPoints": 350,
+    "hpRegenPerSecond": 30,
+    "mpRegenPerSecond": 30,
+    "itemImage": "ItemImage/accessory/GoldAmulet",
+    "itemdropChance": 0.005
+  }
+]

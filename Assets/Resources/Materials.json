@@ -1,0 +1,62 @@
+[
+  {
+    "itemID": 901,
+    "itemName": "신규 유저 지원팩",
+    "buyPrice": 0,
+    "sellPrice": 10000,
+    "itemProfile": "첫 유저를 위한 아이템",
+    "itemImage": "ItemImage/material/GoldBar",
+    "quantity": 1,
+    "itemdropChance": 0
+  },
+  {
+    "itemID": 902,
+    "itemName": "몬스터 송곳니",
+    "buyPrice": 0,
+    "sellPrice": 5,
+    "itemProfile": "몬스터의 신체 일부, 상점에 판매 가능",
+    "itemImage": "ItemImage/material/MonsterFangs",
+    "quantity": 1,
+    "itemdropChance": 0.8
+  },
+  {
+    "itemID": 903,
+    "itemName": "몬스터 고기",
+    "buyPrice": 0,
+    "sellPrice": 100,
+    "itemProfile": "몬스터의 고기, 상점에 판매 가능",
+    "itemImage": "ItemImage/material/MonsterMeat",
+    "quantity": 1,
+    "itemdropChance": 0.4
+  },
+  {
+    "itemID": 904,
+    "itemName": "몬스터 가죽",
+    "buyPrice": 0,
+    "sellPrice": 10,
+    "itemProfile": "몬스터의 가죽, 상점에 판매 가능",
+    "itemImage": "ItemImage/material/MonsterLeather",
+    "quantity": 1,
+    "itemdropChance": 0.8
+  },
+  {
+    "itemID": 905,
+    "itemName": "몬스터 털",
+    "buyPrice": 0,
+    "sellPrice": 300,
+    "itemProfile": "몬스터의 털, 상점에 판매 가능",
+    "itemImage": "ItemImage/material/MonsterFeather",
+    "quantity": 1,
+    "itemdropChance": 0.3
+  },
+  {
+    "itemID": 906,
+    "itemName": "몬스터의 심장",
+    "buyPrice": 0,
+    "sellPrice": 700,
+    "itemProfile": "몬스터의 심장, 상점에 판매 가능",
+    "itemImage": "ItemImage/material/MonsterHeart",
+    "quantity": 1,
+    "itemdropChance": 0.2
+  }
+]

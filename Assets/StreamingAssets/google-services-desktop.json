@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "922898037414",
+    "firebase_url": "https://mygamefb-eb266-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mygamefb-eb266",
+    "storage_bucket": "mygamefb-eb266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922898037414:android:2022de551e31bab0909267",
+        "android_client_info": {
+          "package_name": "com.bbang.kuro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMkL90aSKnYuwt1_v6hKZsWjAlXOO6HHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

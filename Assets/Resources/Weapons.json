@@ -1,0 +1,52 @@
+[
+  {
+    "itemID": 101,
+    "itemName": "Long Sword",
+    "buyPrice": 1500,
+    "sellPrice": 10,
+    "itemProfile": "기본적인 초보자 검",
+    "attackPower": 25,
+    "itemImage": "ItemImage/weapon/LongSword",
+    "itemdropChance": 0.5
+  },
+  {
+    "itemID": 102,
+    "itemName": "Knight Sword",
+    "buyPrice": 2000,
+    "sellPrice": 150,
+    "itemProfile": "기사의 검",
+    "attackPower": 35,
+    "itemImage": "ItemImage/weapon/KnightSword",
+    "itemdropChance": 0.3
+  },
+  {
+    "itemID": 103,
+    "itemName": "Dunguen Sword",
+    "buyPrice": 30000,
+    "sellPrice": 4000,
+    "itemProfile": "달빛 검",
+    "attackPower": 60,
+    "itemImage": "ItemImage/weapon/DunguenSword",
+    "itemdropChance": 0.05
+  },
+  {
+    "itemID": 104,
+    "itemName": "Staff",
+    "buyPrice": 4000,
+    "sellPrice": 300,
+    "itemProfile": "지팡이",
+    "attackPower": 45,
+    "itemImage": "ItemImage/weapon/Staff",
+    "itemdropChance": 0.3
+  },
+  {
+    "itemID": 105,
+    "itemName": "Gold Staff",
+    "buyPrice": 1000000,
+    "sellPrice": 200000,
+    "itemProfile": "황금 지팡이",
+    "attackPower": 120,
+    "itemImage": "ItemImage/weapon/GoldStaff",
+    "itemdropChance": 0.005
+  }
+]
